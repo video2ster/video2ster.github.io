@@ -1,4 +1,4 @@
-# <font style="color:#00000000">VideoToaster</font>
+###### <font style="color:#00000000">VideoToaster</font>
 
 ## Welcome to VideoToaster's Github Page
 
@@ -22,7 +22,7 @@ me in on a little secret you can e-mail me (mailto:glitchyneopet@gmail.com)[here
 
 This site isn't only bullet points about me, it's multiple pages of bullet points about me!
 
-- [interests](Hyperfixations)
-- [blog/](The BogBlog)
-- [art](Art Portfolio)
-- [contact](Contact Me)
+- [Hyperfixations](hyperfixations)
+- [The BogBlog](blog/)
+- [Art, and stuff](art)
+- [Contact Me](contact)
