@@ -2,6 +2,8 @@
 
 This site is a heavy work in progress.
 
+<br>
+
 ### About Me
 
 I'm a young, stupid, dumb web developer who composes bad techno (nobody listens to techno!)
