@@ -1,4 +1,4 @@
-# <font style="size:0px;">VideoToaster</font>
+# <font style="color:#00000000">VideoToaster</font>
 
 ## Welcome to VideoToaster's Github Page
 
