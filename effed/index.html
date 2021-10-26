@@ -7,7 +7,9 @@
       window.onload = function() {
         window.setInterval(
           function(){
-            document.getElementById("matrixbg").innerHTML = Math.round(Math.random);
+            var str1 = Math.round(Math.random()).toString()+Math.round(Math.random()).toString()+Math.round(Math.random()).toString()+Math.round(Math.random()).toString()+Math.round(Math.random()).toString()+Math.round(Math.random()).toString()+Math.round(Math.random()).toString()+Math.round(Math.random()).toString();
+            var str2 = str1.repeat(10);
+            document.getElementById("matrixbg").innerHTML = str2;
           }, 100
         )
       }
