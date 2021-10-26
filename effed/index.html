@@ -3,9 +3,18 @@
   <head>
     <title>Eee Eff Eff Eee Dee</title>
     <link rel="stylesheet" href="f.css" />
+    <script>
+      window.onload = function() {
+        window.setInterval(
+          function(){
+            document.getElementById("matrixbg").innerHTML = "Math.round(Math.random);";
+          }, 100
+        )
+      }
+    </script>
   </head>
   <body>
-<pre class="matrixbg">
+<pre id="matrixbg">
 This would be really cool if you enabled JavaScript
 </pre>
   </body>
